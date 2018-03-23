@@ -1,0 +1,15 @@
+r_rh_p12_rn_position:
+  type: position_controllers/JointPositionController
+  joint: r_rh_p12_rn
+
+r_rh_r2_position:
+  type: position_controllers/JointPositionController
+  joint: r_rh_r2
+
+r_rh_l1_position:
+  type: position_controllers/JointPositionController
+  joint: r_rh_l1
+
+r_rh_l2_position:
+  type: position_controllers/JointPositionController
+  joint: r_rh_l2
